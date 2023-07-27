@@ -8,7 +8,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "Clipboardjesus desktop",
+    "productName": "Iftiin-Clip desktop",
     "version": "0.1.2"
   },
   "tauri": {
@@ -48,8 +48,8 @@
         "icons/icon.ico"
       ],
       "identifier": "www.clipboardjesus.com",
-      "shortDescription": "The Clip#board as a desktop app",
-      "longDescription": "Manage your clipboard like a pro with Clip#board. Clip#board is an awesome tool to create notes from your clipboard or to organize your tasks.",
+      "shortDescription": "The Iftiin-Clip as a desktop app",
+      "longDescription": "Manage your clipboard like a pro with Iftiin-Clip. Iftiin-Clip is an awesome tool to create notes from your clipboard or to organize your tasks.",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -76,7 +76,7 @@
         "fullscreen": false,
         "height": 900,
         "resizable": true,
-        "title": "Clip#board",
+        "title": "Iftiin-Clip",
         "width": 1200,
         "theme": "Dark"
       }
