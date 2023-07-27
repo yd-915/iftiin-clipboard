@@ -150,7 +150,7 @@ export class DataService extends DisposableService {
 
     const tab = this.tabs[this.selectedTabIndex];
     const tabName = tab.label ?? `#Board ${this.selectedTabIndex+1}`;
-    appTitle.innerText = `Clip#board | ${tabName}`;
+    appTitle.innerText = `Iftiin-Clip | ${tabName}`;
   }
 
   /**
